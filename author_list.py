@@ -34,6 +34,7 @@ authors = [
 {'name': 'D.~Datashvili', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''}, 
 {'name': 'D.~Dornic', 'affiliations': ['CPPM, Aix Marseille Univ, CNRS/IN2P3, CPPM, Marseille, France'], 'email': 'dornic@CPPM.IN2P3.FR', 'orcid': '0000-0001-5729-1468'},
 {'name': 'P.-A.~Duverne', 'affiliations': ["Universit\\'e Paris Cit\\'e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'pierre-alexandre.duverne@U-PSUD.FR'},
+{'name': 'S.~Ehgamberdiev', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan', 'National University of Uzbekistan, 4 University str., Tashkent 100174, Uzbekistan'], 'email': 'shuhrat@ASTRIN.UZ', 'orcid': '0000-0001-9730-3769'},
 {'name': 'A.~Eid', 'affiliations': ['The National Research Institute of Astronomy and Geophysics (NRIAG)'], 'email': ''},
 {'name': 'E.~Elhosseiny', 'affiliations': ["National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt"], 'email': 'eslam_elhosseiny@nriag.sci.eg', 'orcid': '0000-0002-9751-8089'},
 {'name': 'L.~Eymar', 'affiliations': [" "], 'email': ''},
